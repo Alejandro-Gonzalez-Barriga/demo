@@ -1,8 +1,8 @@
 {
   "molecule":"faricimab",
   "unit_ops":"CEX",
-  "qa": ['BIOBURDEN_KBEPERML','CONDUCTIVITY_TEMP_DEGC'],    
-  "runs":['KaD0043.1.P001','KaD0043.1.P002'],
+  "qa": ["BIOBURDEN_KBEPERML","CONDUCTIVITY_TEMP_DEGC"],    
+  "runs":["KaD0043.1.P001","KaD0043.1.P002"],
   "qa_metadata":[
     {
     "heading_human": "Equipment name",
