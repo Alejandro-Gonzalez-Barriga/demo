@@ -1,6 +1,22 @@
 {
-    "molecules": [
-        "faricimab",
-        "glofitimab"
-    ]
-}
+  "molecule":"faricimab",
+  "unit_ops":"CEX",
+  "qa": ['BIOBURDEN_KBEPERML','CONDUCTIVITY_TEMP_DEGC'],    
+  "runs":['KaD0043.1.P001','KaD0043.1.P002'],
+  "qa_metadata":[
+    {
+    "heading_human": "Equipment name",
+    "extra_variable_long": "Equipment name",
+    "scatter_plot": "Y",
+    "main_effect_plot": "Y",
+    "parameter_estimate_table" : "N" 
+    },
+    {
+    "heading_human": "pH - temp. (°C)",
+    "extra_variable_long": "pH - temp. (°C)",
+    "scatter_plot": "Y",
+    "main_effect_plot": "Y",
+    "parameter_estimate_table" : "N" 
+    }
+  ]
+  }
